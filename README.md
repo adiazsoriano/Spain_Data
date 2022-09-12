@@ -1,2 +1,2 @@
 # Spain_Data
-CVS info from spain
+CSV info from spain
